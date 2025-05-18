@@ -16,11 +16,7 @@
   <img alt="Top Languages" src="https://my-readme-five.vercel.app/api/top-langs/?username=S-Ahmmed&layout=compact&langs_count=10&show_icons=true&theme=dracula" />
 </p>
 
-<p align="center">
-  <a href="https://discord.com/users/YourDiscordID">
-    <img src="https://lanyard.cnrad.dev/api/YourDiscordID?borderRadius=20px&bg=00000000" alt="Discord Status" />
-  </a>
-</p>
+
 
 ---
 
