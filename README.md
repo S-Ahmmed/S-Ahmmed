@@ -1,19 +1,19 @@
 <h1 align="center">Hi, I’m @S-Ahmmed 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat" alt="YourUsername" />
+  <img src="https://komarev.com/ghpvc/?username=S-Ahmmed&label=Profile%20views&color=0e75b6&style=flat" alt="S-Ahmmed" />
 </p>
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://my-readme-five.vercel.app/api?username=YourUsername&count_private=true&show_icons=true&theme=dracula" />
+  <img alt="GitHub Stats" src="https://my-readme-five.vercel.app/api?username=S-Ahmmed&count_private=true&show_icons=true&theme=dracula" />
 </p>
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dracula" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=S-Ahmmed&theme=dracula" />
 </p>
 
 <p align="center">
-  <img alt="Top Languages" src="https://my-readme-five.vercel.app/api/top-langs/?username=YourUsername&layout=compact&langs_count=10&show_icons=true&theme=dracula" />
+  <img alt="Top Languages" src="https://my-readme-five.vercel.app/api/top-langs/?username=S-Ahmmed&layout=compact&langs_count=10&show_icons=true&theme=dracula" />
 </p>
 
 <p align="center">
